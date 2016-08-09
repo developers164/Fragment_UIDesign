@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Fragment_UIDesign_1</string>
+    <string-array name="menu">
+        <item>HOME</item>
+        <item>ABOUT</item>
+        <item>SERVICES</item>
+        <item>CONTACT US</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Welcome To Netizen Solutions.....</item>
+        <item>What We Do:"\n"
+            "\n"
+            Netizen solutions was started in 2012.Netizen provides their services to many companies."\n"
+            We were developed many product for Ministry of home affairs as well as local state police."\n"
+            We have very experience team in WPF, Silverlight, PHP, JAVA, Mobile application etc.we give our services for 24x7."\n"
+            </item>
+        <item>Our Services"\n"
+            Netizen solutions is develop software in WPF(windows presentation foundation)
+            and silvetlight"\n"
+            Wpf and silverlight is our main area of development."\n"
+            Windows Presentation Foundation (or WPF) is a computer-software graphical subsystem for rendering user interfaces in Windows-based applications.</item>
+        <item>Contact us "\n"
+            "\n"
+            A-14,Kirtisagar Tower,Jodhpur Gam,"\n"
+            Satellite (Development Centre)"\n"
+            Opp.Hetarth party Plot ,"\n"
+            Shivam Complex ,Sciencecity Road,Sola (Training Centre)"\n"
+            "\n"
+            Phone: (+91) 972-4480-261"\n"
+            E-Mail: info@netizensolution.com</item>
+    </string-array>
+</resources>
